@@ -1,4 +1,4 @@
-# ConnectMongoDB
+# Express-101
 
 Ejemplo básico de Express para crear una aplicación web Hola Mundo.
 Ejercicio se publica para efectos académicos.
@@ -10,13 +10,16 @@ Esta aplicación solo muestra un mensaje "Hola Mundo con Express" cuando se acce
 
 ## versiones
 
-1. node --version = v16.13.1
-2. npm -version = 8.3.0
+1. node = v16.13.1
+2. npm = 8.3.0
+3. express = 4.17.2
+4. eslint = 8.5.0
+5. dotenv = 10.0.0
 
 ## Comandos utilizados
 
 1. npm init -y
-2. npm install dotenv  (versión 10.0.0)
+2. npm install dotenv
 3. npm install express --save
 4. npm install eslint --save-dev
 5. npx eslint --init
